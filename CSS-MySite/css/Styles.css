@@ -1,0 +1,81 @@
+body{
+    background-color:#ADD8E6;
+    margin-left:0;
+    margin-top:0;
+    text-align: center;
+    color:white;
+    font-family: 'Merriweather', serif;
+    /*font-size:2em;  % and em will add size along with its parent element */
+}
+.mountain{
+  width:40%;
+}
+.skill-row2{
+  padding:15% 0 15% 0;
+  text-align: left;
+  line-height: 2;
+}
+
+.java{
+  width:25%;/* size reduction */
+  float:left;
+  margin-right: 10px;
+}
+.htmlcssjs{
+  width:25%;/* size reduction */
+  float:right;
+  margin-right: 10px;
+}
+.name{
+  font-size:5.625em;
+                 /* 100% = 16px = 1 em(M) */
+  color:#66BFBF;
+}
+h2{
+  font-size:2.5rem;/* rem does not consider the parent element size*/
+  color:#66BFBF;
+}
+.profile-pic{
+  border-radius:75%;
+  width:25%
+}
+.skills{
+  width:50%;
+  margin:0 auto 0 auto; /*used for centering the div*/
+}
+.skill-row{
+  text-align: left;
+    line-height: 2;
+}
+h1{
+  display: block;
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+.top-container{
+  padding-top: 50px;
+  background-color: inherit;
+  text-align: center;
+  position: relative;
+}
+.cloud1{
+    position:absolute;
+    right:80px;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+
+
+}
+.cloud2{
+  position:absolute;
+  left:300px;
+}
+h2,h3{
+  color:#11999E;
+  font-weight:normal;
+}

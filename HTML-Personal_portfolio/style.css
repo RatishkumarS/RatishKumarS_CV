@@ -1,0 +1,17 @@
+body{
+  background-color: #40E0D0
+}
+hr{
+  background-color: inherit;
+  height:0px;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:10%;
+}
+h1{
+  color: maroon;
+}
+h6{
+  color: green;
+}
